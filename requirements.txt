@@ -1,1 +1,9 @@
-pip install streamlit PyPDF2 python-docx pymupdf pillow python-dotenv openai
+
+streamlit
+PyPDF2
+python-docx
+pymupdf
+pillow
+python-dotenv
+openai
+fpdf2
