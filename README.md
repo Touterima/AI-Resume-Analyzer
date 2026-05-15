@@ -32,7 +32,7 @@ Un outil intelligent qui analyse votre CV, lui attribue un **score ATS sur 100**
 ### 1. Cloner le repository
 
   ```bash
-  git clone https://github.com/votreusername/ai-resume-analyzer.git
+  git clone [https://github.com/votreusername/ai-resume-analyzer.git](https://github.com/Touterima/AI-Resume-Analyzer.git)
   cd ai-resume-analyzer
 ```
 
